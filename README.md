@@ -99,7 +99,7 @@ SN = gg.choice({
 "🏗️┣Special function💋 ●",
 "🚫┣Ban report💋 ●",
 "Exit",
-}, nil,"┣【💋MR HACKER💋】┫")
+}, nil,"💋MR HACKER💋")
 if SN == 1 then AT() end
 if SN == 2 then AT1() end
 if SN == 3 then AT2() end
@@ -110,7 +110,7 @@ if SN == 6 then exit() end
 end
 function AT4()
 SN8 = gg.choice({
-"Anti-Ban V1 🇮🇳",
+"BYPASS V1 🇮🇳",
 "Clear Report 🇮🇳",
 "Exit 🇮🇳",
 }, nil,"┣【MR. VIP RAJPUT】┫")
@@ -132,7 +132,7 @@ SN1 = gg.choice({
 "🤾┣High jump 🇮🇳 ●",
 "😜Test Value😔",
 "💋Back💋",
-}, nil,"┣【💞MR HACKER YT💞】┫")
+}, nil,"💞MR HACKER YT💞")
 if SN1 == 1 then
 V1()
 end
@@ -173,7 +173,7 @@ SN2 = gg.choice({
 "🔎┣Scope 10x 🇮🇳 ●",
 "〰️┣No Recoil 🇮🇳 ●",
 "⚡┣Speed Fire 🇮🇳 ●",
-"🚫┣Remove Card (Spector) 🇮🇳 ●",
+"🚫┣Remove Map (Spector) 🇮🇳 ●",
 "🔄┣Quickly Reload 🇮🇳 ●",
 "🚫┣Bazooka shoots through houses 🇮🇳 ●",
 "💢┣Aim Lock 🇮🇳 ●",
@@ -225,7 +225,7 @@ SN3 = gg.choice({
 "📤┣House Boat 🇮🇳 ●",
 "🏃┣Fast run ●",
 "💀┣Remove Card ●",
-"🗡️┣Impact speed + high speed ●",
+"🗡️┣Impact speed + high Damege ●",
 "♥️Back♥️",
 }, nil,"┣【💋MR. HACKER Yt 💋】┫")
 if SN3 == 1 then
