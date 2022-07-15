@@ -97,7 +97,7 @@ SN = gg.choice({
 "⚔️┣ Weapon function💋  ●",
 "👑┣Special function💋 ●",
 "🏗️┣Special function💋 ●",
-"🚫┣Ban report💋 ●",
+"🚫┣Loby Bypass 💋 ●",
 "Exit",
 }, nil,"💋MR HACKER💋")
 if SN == 1 then AT() end
